@@ -1,0 +1,39 @@
+import com.jewel.Person2
+
+fun main(args: Array<String>) {
+
+    var myName = "Jewel Rana"
+
+    display()
+
+    showResult("Show result with parameter >> $myName")
+
+    var personObg = Person()
+    personObg.showResult(myName)
+
+
+    var  person2 = Person2()
+    person2.result(myName)
+
+
+}
+
+fun showResult(name: String) {
+
+    println(name)
+}
+
+
+fun display() {
+
+    println("Print from display function")
+}
+
+class Person {
+
+    fun showResult(name: String) {
+
+        println("Showing from class >> $name")
+    }
+
+}
