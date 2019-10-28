@@ -1,4 +1,4 @@
-import com.jewel.Person2
+import com.Person2
 
 fun main(args: Array<String>) {
 

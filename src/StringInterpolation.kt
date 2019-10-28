@@ -1,4 +1,4 @@
-package com.practice
+package com
 
 fun main(args: Array<String>) {
 

@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2e79ed7-d7ee-4c0c-b124-ce94a1c14206" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/DoubleDotOperators.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/REPL.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/StringInterpolation.kt" afterDir="false" />
+    <list default="true" id="e2e79ed7-d7ee-4c0c-b124-ce94a1c14206" name="Default Changelist" comment="*double dot &#10;*REPL&#10;*String interpolation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FunctionExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionExample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jewel/Person2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jewel/Person2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jewel/Person2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Person2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/DoubleDotOperators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DoubleDotOperators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/REPL.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/REPL.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/StringInterpolation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/StringInterpolation.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.practice.DoubleDotOperatorsKt">
+  <component name="RunManager" selected="Kotlin.com.DoubleDotOperatorsKt">
     <configuration name="FunctionExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
@@ -74,27 +73,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.practice.DoubleDotOperatorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.DoubleDotOperatorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.DoubleDotOperatorsKt" />
+      <option name="MAIN_CLASS_NAME" value="com.DoubleDotOperatorsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.practice.StringInterpolationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.StringInterpolationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.StringInterpolationKt" />
+      <option name="MAIN_CLASS_NAME" value="com.StringInterpolationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,8 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.practice.DoubleDotOperatorsKt" />
-        <item itemvalue="Kotlin.com.practice.StringInterpolationKt" />
+        <item itemvalue="Kotlin.com.DoubleDotOperatorsKt" />
+        <item itemvalue="Kotlin.com.StringInterpolationKt" />
         <item itemvalue="Kotlin.FunctionExampleKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
       </list>

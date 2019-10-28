@@ -1,4 +1,4 @@
-package com.jewel
+package com
 
 class Person2 (val name :String){
 
