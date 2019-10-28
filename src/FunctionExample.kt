@@ -12,8 +12,8 @@ fun main(args: Array<String>) {
     personObg.showResult(myName)
 
 
-    var  person2 = Person2()
-    person2.result(myName)
+    var  person2 = Person2("jewel rana")
+    person2.result()
 
 
 }
