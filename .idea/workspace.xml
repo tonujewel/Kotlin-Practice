@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e79ed7-d7ee-4c0c-b124-ce94a1c14206" name="Default Changelist" comment="*double dot &#10;*REPL&#10;*String interpolation">
+      <change afterPath="$PROJECT_DIR$/src/condition/IfCondition.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condition/whenCondition.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/forLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctionExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionExample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jewel/Person2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Person2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/DoubleDotOperators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DoubleDotOperators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/REPL.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/REPL.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/StringInterpolation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/StringInterpolation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/HelloWorldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/jewel/Person2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/practice/DoubleDotOperatorsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/practice/REPLKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/practice/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/practice/StringInterpolationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoubleDotOperators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/general/DoubleDotOperators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FunctionExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/general/FunctionExample.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/general/HelloWorld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/general/Person2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/REPL.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/general/REPL.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringInterpolation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/general/StringInterpolation.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +44,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/condition" />
+      <recent name="$PROJECT_DIR$/src/com" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/general" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,33 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.DoubleDotOperatorsKt">
-    <configuration name="FunctionExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Tutorial" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FunctionExampleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Tutorial" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="HelloWorldKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.loop.LoopsKt">
     <configuration name="com.DoubleDotOperatorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
@@ -99,12 +98,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="condition.IfConditionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Tutorial" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="condition.IfConditionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="condition.WhenConditionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Tutorial" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="condition.WhenConditionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loop.LoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Tutorial" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="loop.LoopsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.loop.LoopsKt" />
+        <item itemvalue="Kotlin.condition.WhenConditionKt" />
+        <item itemvalue="Kotlin.condition.IfConditionKt" />
         <item itemvalue="Kotlin.com.DoubleDotOperatorsKt" />
         <item itemvalue="Kotlin.com.StringInterpolationKt" />
-        <item itemvalue="Kotlin.FunctionExampleKt" />
-        <item itemvalue="Kotlin.HelloWorldKt" />
       </list>
     </recent_temporary>
   </component>
