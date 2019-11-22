@@ -1,6 +1,6 @@
 package com
 
-fun main (args:Array<String>){
+fun main() {
 
     val r1 = 1..5
 
