@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e79ed7-d7ee-4c0c-b124-ce94a1c14206" name="Default Changelist" comment="*double dot &#10;*REPL&#10;*String interpolation">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jewelrana.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interoperability/DefaultFunctions/DefaultJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interoperability/DefaultFunctions/DefaultKt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interoperability/javapac/MyJavaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interoperability/ktpack/CustomName.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interoperability/ktpack/MyKTfile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/FunctionAsExpression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/NamedParameters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/ExtensionFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/AddValueKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/AddValueKt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.function.NamedParametersKt">
+  <component name="RunManager" selected="Kotlin.function.ExtensionFunctionKt">
     <configuration name="DefaultJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Interoperability.DefaultFunctions.DefaultJava" />
       <module name="Kotlin Tutorial" />
@@ -107,14 +98,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interoperability.MyKTfileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="function.ExtensionFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Interoperability.MyKTfileKt" />
+      <option name="MAIN_CLASS_NAME" value="function.ExtensionFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.function.ExtensionFunctionKt" />
         <item itemvalue="Kotlin.function.NamedParametersKt" />
         <item itemvalue="Application.DefaultJava" />
         <item itemvalue="Kotlin.Interoperability.DefaultFunctions.DefaultKtKt" />
         <item itemvalue="Application.MyJavaClass" />
-        <item itemvalue="Kotlin.Interoperability.MyKTfileKt" />
       </list>
     </recent_temporary>
   </component>
