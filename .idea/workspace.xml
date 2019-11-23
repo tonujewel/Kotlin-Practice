@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e79ed7-d7ee-4c0c-b124-ce94a1c14206" name="Default Changelist" comment="*double dot &#10;*REPL&#10;*String interpolation">
-      <change afterPath="$PROJECT_DIR$/src/function/AddValue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/BreakStatement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ContinueStatement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhileLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/WhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jewelrana.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interoperability/DefaultFunctions/DefaultJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interoperability/DefaultFunctions/DefaultKt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interoperability/javapac/MyJavaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interoperability/ktpack/CustomName.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interoperability/ktpack/MyKTfile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/FunctionAsExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/NamedParameters.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/HelloWorldKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/DoubleDotOperatorsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/DoubleDotOperatorsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/REPLKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/REPLKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/StringInterpolationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/StringInterpolationKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/condition/IfConditionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/condition/IfConditionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/condition/WhenConditionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/condition/WhenConditionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/ForLoopKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/general/DoubleDotOperators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/general/DoubleDotOperators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Loops.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/AddValueKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/AddValueKt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -50,16 +42,17 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/condition" />
-      <recent name="$PROJECT_DIR$/src/com" />
-    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="com" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/general" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Interoperability/ktpack" />
+      <recent name="$PROJECT_DIR$/src/condition" />
+      <recent name="$PROJECT_DIR$/src/com" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,67 +67,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.function.AddValueKt">
-    <configuration name="TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.function.NamedParametersKt">
+    <configuration name="DefaultJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interoperability.DefaultFunctions.DefaultJava" />
+      <module name="Kotlin Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interoperability.DefaultFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyJavaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interoperability.javapac.MyJavaClass" />
+      <module name="Kotlin Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interoperability.javapac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interoperability.DefaultFunctions.DefaultKtKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TestKt" />
+      <option name="MAIN_CLASS_NAME" value="Interoperability.DefaultFunctions.DefaultKtKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="function.AddValueKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Interoperability.MyKTfileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="function.AddValueKt" />
+      <option name="MAIN_CLASS_NAME" value="Interoperability.MyKTfileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loop.BreakStatementKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="function.NamedParametersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="loop.BreakStatementKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loop.ContinueStatementKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Tutorial" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="loop.ContinueStatementKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loop.DoWhileLoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Tutorial" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="loop.DoWhileLoopKt" />
+      <option name="MAIN_CLASS_NAME" value="function.NamedParametersKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.function.AddValueKt" />
-        <item itemvalue="Kotlin.loop.ContinueStatementKt" />
-        <item itemvalue="Kotlin.loop.BreakStatementKt" />
-        <item itemvalue="Kotlin.TestKt" />
-        <item itemvalue="Kotlin.loop.DoWhileLoopKt" />
+        <item itemvalue="Kotlin.function.NamedParametersKt" />
+        <item itemvalue="Application.DefaultJava" />
+        <item itemvalue="Kotlin.Interoperability.DefaultFunctions.DefaultKtKt" />
+        <item itemvalue="Application.MyJavaClass" />
+        <item itemvalue="Kotlin.Interoperability.MyKTfileKt" />
       </list>
     </recent_temporary>
   </component>
