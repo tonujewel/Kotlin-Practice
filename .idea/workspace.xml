@@ -2,10 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e79ed7-d7ee-4c0c-b124-ce94a1c14206" name="Default Changelist" comment="*double dot &#10;*REPL&#10;*String interpolation">
-      <change afterPath="$PROJECT_DIR$/src/function/InfixFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/TailrecFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/ClassDefination.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/HelloWorldKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/DefaultFunctions/DefaultKtKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/DefaultFunctions/DefaultKtKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/ktpack/MyCustomKotlinName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/ktpack/MyCustomKotlinName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/ktpack/MyKTfileKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/ktpack/MyKTfileKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/DoubleDotOperatorsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/DoubleDotOperatorsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/REPLKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/REPLKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/StringInterpolationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/StringInterpolationKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/condition/IfConditionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/condition/IfConditionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/condition/WhenConditionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/condition/WhenConditionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/AddValueKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/AddValueKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/ExtensionFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/ExtensionFunctionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/FunctionAsExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/FunctionAsExpressionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/InfixFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/InfixFunctionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/NamedParametersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/NamedParametersKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/TailrecFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/function/TailrecFunctionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/BreakStatementKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/BreakStatementKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/ContinueStatementKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/ContinueStatementKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/DoWhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/DoWhileLoopKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/LoopsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/LoopsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/WhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/WhileLoopKt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +55,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/general" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -60,16 +86,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.function.TailrecFunctionKt">
-    <configuration name="DefaultJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interoperability.DefaultFunctions.DefaultJava" />
+  <component name="RunManager" selected="Kotlin.OOP.ClassDefinationKt">
+    <configuration name="OOP.ClassDefinationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interoperability.DefaultFunctions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OOP.ClassDefinationKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OOP.ClassDefinationKt" />
+        <item itemvalue="Kotlin.function.ExtensionFunctionKt" />
         <item itemvalue="Kotlin.function.TailrecFunctionKt" />
         <item itemvalue="Kotlin.function.InfixFunctionKt" />
-        <item itemvalue="Kotlin.function.ExtensionFunctionKt" />
         <item itemvalue="Kotlin.function.NamedParametersKt" />
-        <item itemvalue="Application.DefaultJava" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572023690597</updated>
+      <workItem from="1574699543781" duration="1973000" />
     </task>
     <task id="LOCAL-00001" summary="from another class .">
       <created>1572026768672</created>
@@ -156,6 +183,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
