@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2e79ed7-d7ee-4c0c-b124-ce94a1c14206" name="Default Changelist" comment="*double dot &#10;*REPL&#10;*String interpolation">
-      <change afterPath="$PROJECT_DIR$/src/OOP/ClassDefination.kt" afterDir="false" />
+    <list default="true" id="e2e79ed7-d7ee-4c0c-b124-ce94a1c14206" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OOP/InheritanceExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/SecondaryConstructors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/FunctionExampleKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/HelloWorldKt.class" afterDir="false" />
@@ -10,6 +12,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/ktpack/MyCustomKotlinName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/ktpack/MyCustomKotlinName.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/ktpack/MyKTfileKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Interoperability/ktpack/MyKTfileKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/META-INF/Kotlin Tutorial.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/OOP/ClassDefinationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/OOP/ClassDefinationKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/OOP/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/OOP/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/Person2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/DoubleDotOperatorsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/com/DoubleDotOperatorsKt.class" afterDir="false" />
@@ -30,6 +34,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/DoWhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/DoWhileLoopKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/LoopsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/LoopsKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/WhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Tutorial/loop/WhileLoopKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/ClassDefination.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ClassDefination.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.OOP.ClassDefinationKt">
+  <component name="RunManager" selected="Kotlin.OOP.InheritanceExampleKt">
     <configuration name="OOP.ClassDefinationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
@@ -100,6 +105,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OOP.InheritanceExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Tutorial" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OOP.InheritanceExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP.SecondaryConstructorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Tutorial" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OOP.SecondaryConstructorsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="function.ExtensionFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Tutorial" />
       <option name="VM_PARAMETERS" />
@@ -108,32 +139,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="function.ExtensionFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="function.InfixFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Tutorial" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="function.InfixFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="function.NamedParametersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Tutorial" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="function.NamedParametersKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OOP.InheritanceExampleKt" />
+        <item itemvalue="Kotlin.OOP.SecondaryConstructorsKt" />
         <item itemvalue="Kotlin.OOP.ClassDefinationKt" />
         <item itemvalue="Kotlin.function.ExtensionFunctionKt" />
         <item itemvalue="Kotlin.function.TailrecFunctionKt" />
-        <item itemvalue="Kotlin.function.InfixFunctionKt" />
-        <item itemvalue="Kotlin.function.NamedParametersKt" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +177,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572023690597</updated>
-      <workItem from="1574699543781" duration="1973000" />
+      <workItem from="1574699543781" duration="2120000" />
+      <workItem from="1574707551162" duration="3482000" />
+      <workItem from="1574758635407" duration="1594000" />
     </task>
     <task id="LOCAL-00001" summary="from another class .">
       <created>1572026768672</created>
@@ -181,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572026768672</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="*double dot &#10;*REPL&#10;*String interpolation">
+      <created>1574703023813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574703023813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +216,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="from another class ." />
-    <option name="LAST_COMMIT_MESSAGE" value="from another class ." />
+    <MESSAGE value="*double dot &#10;*REPL&#10;*String interpolation" />
+    <option name="LAST_COMMIT_MESSAGE" value="*double dot &#10;*REPL&#10;*String interpolation" />
   </component>
 </project>

@@ -1,16 +1,14 @@
 package OOP
 
-fun main(){
+fun main() {
 
     var student = Student("Jewel Rana")
 
-
-
 }
 
-class Student (name:String){
+class Student(name: String) {
 
-    var name:String = "Dymmy"
+    var name: String = "Dymmy"
 
     init {
         println("init Student Name is ${name}")
